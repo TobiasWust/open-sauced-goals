@@ -1,21 +1,63 @@
 [
   {
+    "full_name": "yassenshopov/PokePalette",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "romkatv/powerlevel10k",
+    "stargazers_count": 33043,
+    "open_issues_count": 34,
+    "forks_count": 1739
+  },
+  {
+    "full_name": "firstcontributions/first-contributions",
+    "stargazers_count": 30452,
+    "open_issues_count": 145,
+    "forks_count": 54908
+  },
+  {
+    "full_name": "pnpm/pnpm",
+    "stargazers_count": 20926,
+    "open_issues_count": 933,
+    "forks_count": 621
+  },
+  {
+    "full_name": "up-for-grabs/up-for-grabs.net",
+    "stargazers_count": 4020,
+    "open_issues_count": 88,
+    "forks_count": 1539
+  },
+  {
+    "full_name": "facebook/react-native",
+    "stargazers_count": 106440,
+    "open_issues_count": 2295,
+    "forks_count": 22690
+  },
+  {
+    "full_name": "styled-components/styled-components-website",
+    "stargazers_count": 571,
+    "open_issues_count": 24,
+    "forks_count": 415
+  },
+  {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 153067,
-    "open_issues_count": 698,
-    "forks_count": 24810
+    "stargazers_count": 153183,
+    "open_issues_count": 694,
+    "forks_count": 24828
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 28432,
-    "open_issues_count": 18034,
-    "forks_count": 2804
+    "stargazers_count": 28530,
+    "open_issues_count": 18181,
+    "forks_count": 2818
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 358042,
-    "open_issues_count": 182,
-    "forks_count": 30560
+    "stargazers_count": 358188,
+    "open_issues_count": 178,
+    "forks_count": 30586
   },
   {
     "full_name": "jruffet/qcmffvl",
@@ -31,15 +73,15 @@
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 29324,
-    "open_issues_count": 23,
-    "forks_count": 2148
+    "stargazers_count": 29378,
+    "open_issues_count": 24,
+    "forks_count": 2153
   },
   {
     "full_name": "tc39/proposal-type-annotations",
-    "stargazers_count": 3117,
+    "stargazers_count": 3131,
     "open_issues_count": 64,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "vicb/flyxc",
@@ -49,49 +91,49 @@
   },
   {
     "full_name": "dragoonDorise/EmuDeck",
-    "stargazers_count": 1146,
-    "open_issues_count": 90,
+    "stargazers_count": 1162,
+    "open_issues_count": 79,
     "forks_count": 93
   },
   {
     "full_name": "deepsidh9/Live-Valorant-Overlay",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "sjai013/unity-gameplay-ability-system",
-    "stargazers_count": 699,
+    "stargazers_count": 700,
     "open_issues_count": 0,
     "forks_count": 128
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 15374,
-    "open_issues_count": 235,
-    "forks_count": 1025
+    "stargazers_count": 15473,
+    "open_issues_count": 190,
+    "forks_count": 1028
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 6111,
-    "open_issues_count": 6,
-    "forks_count": 185
+    "stargazers_count": 6117,
+    "open_issues_count": 5,
+    "forks_count": 184
   },
   {
     "full_name": "keystonejs/keystone",
-    "stargazers_count": 7263,
-    "open_issues_count": 125,
-    "forks_count": 924
+    "stargazers_count": 7281,
+    "open_issues_count": 126,
+    "forks_count": 928
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11178,
-    "open_issues_count": 20,
-    "forks_count": 329
+    "stargazers_count": 11208,
+    "open_issues_count": 18,
+    "forks_count": 328
   },
   {
     "full_name": "TwitchLib/TwitchLib.Unity",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 15,
     "forks_count": 33
   },
@@ -109,21 +151,21 @@
   },
   {
     "full_name": "schemaorg/schemaorg",
-    "stargazers_count": 4772,
-    "open_issues_count": 713,
+    "stargazers_count": 4773,
+    "open_issues_count": 715,
     "forks_count": 835
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 55052,
-    "open_issues_count": 296,
-    "forks_count": 1436
+    "stargazers_count": 55339,
+    "open_issues_count": 298,
+    "forks_count": 1444
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 25230,
+    "stargazers_count": 25313,
     "open_issues_count": 442,
-    "forks_count": 1369
+    "forks_count": 1372
   },
   {
     "full_name": "Modos-Labs/Lancer",
@@ -133,50 +175,8 @@
   },
   {
     "full_name": "NationalSecurityAgency/ghidra",
-    "stargazers_count": 36193,
-    "open_issues_count": 1355,
-    "forks_count": 4589
-  },
-  {
-    "full_name": "darlinghq/darling",
-    "stargazers_count": 9377,
-    "open_issues_count": 232,
-    "forks_count": 380
-  },
-  {
-    "full_name": "Liam-Calice/Udemy-Course-Files",
-    "stargazers_count": 45,
-    "open_issues_count": 0,
-    "forks_count": 30
-  },
-  {
-    "full_name": "Rocher0724/socket.io-unity",
-    "stargazers_count": 106,
-    "open_issues_count": 13,
-    "forks_count": 16
-  },
-  {
-    "full_name": "yumayanagisawa/Unity-Raindrops",
-    "stargazers_count": 138,
-    "open_issues_count": 1,
-    "forks_count": 38
-  },
-  {
-    "full_name": "leohku/andure",
-    "stargazers_count": 135,
-    "open_issues_count": 3,
-    "forks_count": 1
-  },
-  {
-    "full_name": "pontusstjerna/ParaglideX",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "appwrite/appwrite",
-    "stargazers_count": 27682,
-    "open_issues_count": 745,
-    "forks_count": 2289
+    "stargazers_count": 36246,
+    "open_issues_count": 1365,
+    "forks_count": 4591
   }
 ]
